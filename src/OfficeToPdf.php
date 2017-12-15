@@ -1,16 +1,14 @@
 <?php
 /**
- * @summary     Office文档转PDF文档类，利用Linux的LibreOffice内置格式转换命令进行转换。
+ * @summary     Office文档转PDF文档
  * @copyright   yowfung
  * @license     http://www.yowfung.cn
- * @version     2017.12.14.1.0
+ * @version     2017.12.15 v1.1.0
  * @createdby   PhpStorm.
  */
 
 namespace YowFung\OfficeToPdf;
 
-
-use PHPUnit\Runner\Exception;
 
 class OfficeToPdf
 {
