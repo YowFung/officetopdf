@@ -3,7 +3,7 @@
     "description": "This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents(such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.",
     "type": "library",
     "license": "MIT",
-    "keyword": [
+    "keywords": [
         "PHP", "Laravel", "Office", "LibreOffice", "Convert", "doc", "xls", "ppt", "pdf"
     ],
     "homepage": "http://www.yowfung.cn",
