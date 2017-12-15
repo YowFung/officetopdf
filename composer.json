@@ -16,6 +16,15 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.3"
+        "php": "^5.3.3 || ^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "YowFung\\OfficeToPdf\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
     }
 }
