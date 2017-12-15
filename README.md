@@ -1,13 +1,13 @@
 # yowfung/officetopdf
 
-	​This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents (such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
+​	This is a PHP Laravel library, which uses LibreOffice built-in command to convert Office documents (such as doc, docx, xls, xlsx, ppt, pptx, wps, dwg and so on) to PDF files.
 
-	​这是一个PHP Laravel库，它使用LibreOffice内置命令将Office文档(如doc、docx、xls、xlsx、ppt、pptx、wps、dwg等)转换为PDF文件。
+​	这是一个PHP Laravel库，它使用LibreOffice内置命令将Office文档(如doc、docx、xls、xlsx、ppt、pptx、wps、dwg等)转换为PDF文件。
 
 
 ## Installation
 
-	​使用Composer安装，在终端上运行命令：`composer require yowfung/officetopdf`。或在`composer.json`中添加以下代码：
+​	使用Composer安装，在终端上运行命令：`composer require yowfung/officetopdf`。或在`composer.json`中添加以下代码：
 
 ```json
 {
@@ -19,7 +19,7 @@
 
 ## Configure
 
-	​本库利用LibreOffice内置的命令实现格式转换，因此在使用本库前必须保证服务器环境为Linux系统，且已配置Java环境，并安装LibreOffice软件。
+​	本库利用LibreOffice内置的命令实现格式转换，因此在使用本库前必须保证服务器环境为Linux系统，且已配置Java环境，并安装LibreOffice软件。
 
 - 配置Java环境：可直接运行本库自带的Java环境安装配置脚本：
 
@@ -99,6 +99,6 @@ if(!$office->checkFormat($filename))
 
 ## Copyright
 
-	​本库由YowFung开发并提供更新，程序开源。
+​	本库由YowFung开发并提供更新，程序开源。
 
-	​联系邮箱：yowfung@outlook.com
+​	联系邮箱：yowfung@outlook.com
