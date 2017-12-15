@@ -22,9 +22,5 @@
         "psr-4": {
             "YowFung\\OfficeToPdf\\": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "v1.0.4"
     }
 }
